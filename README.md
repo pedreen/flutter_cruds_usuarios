@@ -1,16 +1,8 @@
-# flutter_crud
+# flutter_cruds_usuarios
 
-A new Flutter project.
+Projetinho para iniciar no Flutter (Dart) e criando CRUD'S (adicionar, listar, editar e excluir). 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto utiliza de uma lista setada manualmente com os dados dos usuários que são fixos, porém é possível excluir, editar ou adicionar novos usuários. 
+Cada usuário possui um ID, name, email e um avatar para a identificação do mesmo.
